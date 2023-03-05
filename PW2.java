@@ -47,7 +47,7 @@ public class Exercise{
                 }
                 break;
        default:
-                System.out.println("Invalid number");
+                System.out.println("You enter an Invalid number!!!!!!!");
              
     }
     }
